@@ -1,0 +1,5 @@
+@mixin heart-rate-gradient {
+  background: -webkit-linear-gradient(#f34193, #8f48ed);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
